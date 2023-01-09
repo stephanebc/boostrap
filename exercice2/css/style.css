@@ -2,6 +2,12 @@ body {
     display: flex;
 }
 
+.nav {
+    align-self: flex-start;
+    position: sticky;
+    top: 0;
+}
+
 .texte {
     width: 75%;
 }
