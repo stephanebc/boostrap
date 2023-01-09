@@ -1,3 +1,11 @@
-.body {
-    width: ;
+body {
+    display: flex;
+}
+
+.texte {
+    width: 75%;
+}
+
+.bloc {
+    width: 70%;
 }
