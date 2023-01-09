@@ -15,7 +15,7 @@ body {
 }
 
 .nav-link:hover {
-    background-color: gray;
+    background-color: rgb(222, 219, 219);
 }
 
 h2 {
