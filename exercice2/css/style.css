@@ -9,6 +9,14 @@ body {
     width: 25%;
 }
 
+.nav-link {
+    color: royalblue;
+}
+
+.nav-link:hover {
+    background-color: gray;
+}
+
 h2 {
     margin: 2.5rem 0 2.5rem 0;
 }
