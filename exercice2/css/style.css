@@ -1,39 +1,9 @@
-/*body {
-    display: flex;
+.accordion-header {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column: 1 / 2;
 }
 
-.nav {
-    align-self: flex-start;
-    position: sticky;
-    top: 0;
-    width: 25%;
-    margin-right: 2rem;
+.accordion-body {
+    margin-left: 10rem;
 }
-
-.nav-link {
-    color: royalblue;
-}
-
-.nav-link:hover {
-    background-color: rgb(222, 219, 219);
-}
-
-h2 {
-    margin: 2.5rem 0 2.5rem 0;
-}
-
-.texte {
-    width: 75%;
-    border: solid rgb(222, 219, 219) 1px;
-    padding: 0 0 0 1rem;
-}
-
-.bloc {
-    width: 100%;
-    margin: 2.5rem 0 2.5rem 0;
-}
-
-.bloc img {
-    border: solid rgb(222, 219, 219) 1px;
-    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-}*/
